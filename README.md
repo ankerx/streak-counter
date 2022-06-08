@@ -11,7 +11,7 @@ npm install @ankerx/streak-counter
 
 ## Usage
 
-```import {streakCounter} from '@jsjoeio/streak-counter'
+```import {streakCounter} from '@ankerx/streak-counter'
 
 const today = new Date()
 const streak = streakCounter(localStorage, today)
